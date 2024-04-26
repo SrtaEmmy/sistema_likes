@@ -12,7 +12,7 @@
 <p>Se emplea AJAX para no recargar la página a cada like</p>
 <p>El like se guarda en la base de datos</p>
 <p>Por lo que tiene en cuenta el id de un usuario concreto</p>
-    
+     
 <div/>
 
 </br>
